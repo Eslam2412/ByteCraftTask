@@ -1,13 +1,13 @@
 # Test Automation Assessment
 
-## Overview
+* Overview
 This project demonstrates a modular approach to test automation using Selenium WebDriver with the Page Object Model (POM) design pattern. It also incorporates ExtentReports for detailed test execution reports.
 
 The project is divided into two main sections:
 1. Web GUI Test Automation
 2. API Test Automation
 
-## Features
+* Features
 - Modular design with the Page Object Model (POM).
 - Organized structure for test cases and classes.
 - Automated test execution with TestNG.
